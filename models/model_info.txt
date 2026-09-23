@@ -1,0 +1,7 @@
+Best model: Passive Aggressive
+Accuracy: 0.8850
+
+All results:
+  Logistic Regression: 0.8800
+  Passive Aggressive: 0.8850
+  Random Forest: 0.8600
