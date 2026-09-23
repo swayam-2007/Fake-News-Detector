@@ -1,0 +1,11 @@
+# Core (required)
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+streamlit
+
+# Optional -- only needed for src/lstm_model.py (deep learning comparison)
+# tensorflow
